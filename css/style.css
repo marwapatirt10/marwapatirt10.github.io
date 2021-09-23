@@ -1,0 +1,56 @@
+body{
+    padding: 3px;
+    width: auto;
+    height: auto;
+    background-color:aliceblue;
+    margin: auto;
+}
+.navbar .collapse{
+    margin-left: 30%;
+}
+.navbar .collapse .nav-item a{
+    color: gold;
+}
+.navbar .collapse .nav-item a:hover{
+    color: red;
+    font-size: 26px;
+}
+.textline{
+    margin-bottom: 20px;
+}
+.dua{
+    box-shadow: 4px 4px 4px gray;
+    border: 4px solid gray;
+    margin: auto;
+    width: 95%;
+    height: auto;
+    background-color: rgb(243, 255, 175);
+    border-radius: 15%;
+    margin-bottom: 30px;
+}
+.kegiatan{
+    background-color: beige;
+    padding: 20px;
+}
+.kegiatan h1{
+    font-size: 120%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.dua .about .deskripsi p{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.galery{
+    margin: auto;
+    margin-top: 10px;
+}
+.organisasi{
+    margin-bottom: 30px;
+}
+.organisasi img{
+    width: 70%;
+}
+
+
