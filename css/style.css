@@ -1,4 +1,10 @@
 body{
+    width: auto;
+    height: auto;
+    background-color:aliceblue;
+    margin: auto;
+}
+.container{
     padding: 3px;
     width: auto;
     height: auto;
@@ -24,7 +30,6 @@ body{
     margin: auto;
     width: 95%;
     height: auto;
-    background-color: rgb(243, 255, 175);
     border-radius: 15%;
     margin-bottom: 30px;
 }
